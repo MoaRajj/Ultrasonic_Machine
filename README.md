@@ -22,7 +22,7 @@ This project aligns harmoniously with the principles of Programmable Logic Contr
 
 ## The Machine:
 <p align="center" width="100%">
-  <img width="100%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/44661597-f84f-4d9b-a169-42308a4eb4d5">
+  <img width="84%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/44661597-f84f-4d9b-a169-42308a4eb4d5">
   <img width="30%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d01c05e9-a42e-4bdc-aee4-9cf16ddfeb65">
   <img width="53%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/423d3a22-40dc-4f3f-ab9c-20232a02e503">
 </p>
@@ -42,12 +42,12 @@ This project aligns harmoniously with the principles of Programmable Logic Contr
   <img width="42%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4405c313-7eea-4c01-878d-28c01d30ea21">
 </p>
 
-## Screen User InterFace:
+## Screen User Interface:
 <p align="center" width="100%">
-  <img width="100%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/9ce9e695-330e-4e3c-adc7-c55e8bb65dde">
+  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4c95c58a-b8e2-4ab3-a831-9be4d2a82003">
 </p>
 
-## Computer User InterFace:
+## Computer User Interface:
 <p align="center">
   <img src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/07b8e0f3-ca11-471b-ada0-6222301909d0">
 </p>
