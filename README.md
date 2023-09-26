@@ -18,7 +18,11 @@ The most formidable challenge encountered in this project revolved around calibr
 This project aligns harmoniously with the principles of Programmable Logic Controllers (PLC), a topic I am keen on further developing in the future.
 
 ## Video:
-
+Click on the following image to watch the video :point_down: .
+<div align="center">
+  
+  [![Watch the video](https://img.youtube.com/vi//hqdefault.jpg)](https://www.youtube.com/embed/)
+</div>
 
 ## The Machine:
 <p align="center" width="100%">
