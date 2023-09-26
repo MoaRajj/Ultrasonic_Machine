@@ -21,7 +21,7 @@ This project aligns harmoniously with the principles of Programmable Logic Contr
 Click on the following image to watch the video :point_down: .
 <div align="center">
   
-  [![Watch the video](https://img.youtube.com/vi//hqdefault.jpg)](https://www.youtube.com/embed/)
+  [![Watch the video](https://img.youtube.com/vi/cr0KCuOyJqo/hqdefault.jpg)](https://www.youtube.com/embed/cr0KCuOyJqo)
 </div>
 
 ## The Machine:
