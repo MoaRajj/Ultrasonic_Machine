@@ -21,25 +21,33 @@ This project aligns harmoniously with the principles of Programmable Logic Contr
 
 
 ## The Machine:
-
+<p align="center" width="100%">
+  <img width="100%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/44661597-f84f-4d9b-a169-42308a4eb4d5">
+  <img width="30%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d01c05e9-a42e-4bdc-aee4-9cf16ddfeb65">
+  <img width="53%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/423d3a22-40dc-4f3f-ab9c-20232a02e503">
+</p>
 
 ## The Electrical Box:
-
+<p align="center" width="100%">
+  <img width="20%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/1efc7371-aaa8-4ab8-b283-feff682e6f26">
+  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d8bec920-72da-44ad-83e7-67542ddc6054">
+  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e38d2b69-4db3-4f7d-b43a-4ecefbd09d00">
+</p>
+<p align="center" width="100%">
+  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e4b3ab7c-0594-4355-b9fa-4c6fc5e4d664">
+</p>
+<p align="center" width="100%">
+  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/873a92ab-18cc-43e7-a83c-1f3aacd854b8">
+  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/649d2c80-51f0-4b01-bbe2-755fab8e998b">
+  <img width="42%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4405c313-7eea-4c01-878d-28c01d30ea21">
+</p>
 
 ## Screen User InterFace:
-
+<p align="center" width="100%">
+  <img width="100%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/9ce9e695-330e-4e3c-adc7-c55e8bb65dde">
+</p>
 
 ## Computer User InterFace:
-![WhatsApp Image 2023-09-20 at 11 06 24 AM](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4ba755be-b977-400a-9250-c44fded6996a)
-![WhatsApp Image 2023-09-20 at 11 06 24 AM (4)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e8d912f8-66a7-455a-aaef-085918cb11cb)
-![WhatsApp Image 2023-09-20 at 11 06 24 AM (3)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/abd4ea34-b276-48bd-8606-25aa82d8fb4d)
-![WhatsApp Image 2023-09-20 at 11 06 24 AM (2)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/96ca3e68-d745-4fb8-9e30-0df2edaf4fd4)
-![WhatsApp Image 2023-09-20 at 11 06 24 AM (1)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/9c94e0e5-9d4d-42f2-a4a4-0a2d8008ba8d)
-![WhatsApp Image 2023-09-20 at 11 06 23 AM](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4e5567ed-4f4e-4ed4-aa50-df1f207a0896)
-![WhatsApp Image 2023-09-20 at 11 06 23 AM (2)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/338a29c7-8cdd-477f-b9d1-7a874aa47ff0)
-![WhatsApp Image 2023-09-20 at 11 06 23 AM (1)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e75f77d9-2d21-4d7a-a02b-e3ac6bf57bfb)
-![WhatsApp Image 2023-09-20 at 11 04 47 AM](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d249249d-5534-46ba-a8ae-d5404ec095a2)
-![WhatsApp Image 2023-09-20 at 5 51 35 PM](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/fa1f4fce-aeb6-4aaa-90c1-262a6f42a827)
-![WhatsApp Image 2023-09-20 at 1 02 20 PM](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/edb152ca-f53a-4c4a-9716-189da6597021)
-![WhatsApp Image 2023-09-20 at 1 02 20 PM (3)](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4a6b0c67-a60c-4d5e-970f-50cb1c634a08)
-![Screenshot 2023-09-20 171752](https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/9c5f8138-f14b-41fb-9280-65da62f20ffc)
+<p align="center">
+  <img src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/07b8e0f3-ca11-471b-ada0-6222301909d0">
+</p>
