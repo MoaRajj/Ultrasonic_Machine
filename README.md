@@ -14,9 +14,6 @@ The outcome of this system is a user-friendly machine, allowing easy control thr
 ## Challenges:
 The most formidable challenge encountered in this project revolved around calibrating the touch screen. Despite experimenting with various touch screen calibration libraries and codes, achieving precise calibration required extensive testing of multiple parameters to determine the optimal settings.
 
-## Relevance:
-This project aligns harmoniously with the principles of Programmable Logic Controllers (PLC), a topic I am keen on further developing in the future.
-
 ## Video:
 Click on the following image to watch the video :point_down: .
 <div align="center">
