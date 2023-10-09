@@ -23,32 +23,32 @@ Click on the following image to watch the video :point_down: .
 
 ## The Machine:
 <p align="center" width="100%">
-  <img width="84%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/44661597-f84f-4d9b-a169-42308a4eb4d5">
-  <img width="30%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d01c05e9-a42e-4bdc-aee4-9cf16ddfeb65">
-  <img width="53%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/423d3a22-40dc-4f3f-ab9c-20232a02e503">
+  <img width="84%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/fc6189bf-35e2-4d08-9e0b-cb58196759e3">
+  <img width="30%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e780085d-1e08-4af3-985c-a40ea0983f18">
+  <img width="53%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/94872993-cb58-4a56-9962-4e6f69d2bdf5">
 </p>
 
 ## The Electrical Box:
 <p align="center" width="100%">
-  <img width="20%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/1efc7371-aaa8-4ab8-b283-feff682e6f26">
-  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d8bec920-72da-44ad-83e7-67542ddc6054">
-  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e38d2b69-4db3-4f7d-b43a-4ecefbd09d00">
+  <img width="20%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e3b80be1-61e0-4879-af5b-be423293094e">
+  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/0c10e635-145b-43a5-a7e4-085ad515f48c">
+  <img width="35%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/d230de06-64bf-4c34-af0c-13f267f9cc97">
 </p>
 <p align="center" width="100%">
-  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/e4b3ab7c-0594-4355-b9fa-4c6fc5e4d664">
+  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/003b89fb-e32e-4119-8bc6-3b0389b5081d">
 </p>
 <p align="center" width="100%">
-  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/873a92ab-18cc-43e7-a83c-1f3aacd854b8">
-  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/649d2c80-51f0-4b01-bbe2-755fab8e998b">
-  <img width="42%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4405c313-7eea-4c01-878d-28c01d30ea21">
+  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/28759451-b3d6-46dd-9c17-437ccd83aba1">
+  <img width="24%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/2af75ab4-1dee-4d57-95f0-60dc877c0d4d">
+  <img width="42%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/544ea874-71ee-423d-8872-5fd369c07076">
 </p>
 
 ## Screen User Interface:
 <p align="center" width="100%">
-  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/4c95c58a-b8e2-4ab3-a831-9be4d2a82003">
+  <img width="50%" src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/5c7e9e26-ee86-4903-9943-211133c580d4">
 </p>
 
 ## Computer User Interface:
 <p align="center">
-  <img src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/07b8e0f3-ca11-471b-ada0-6222301909d0">
+  <img src="https://github.com/MoaRajj/Ultrasonic_Machine/assets/93192572/c841ea02-ca96-4d81-919e-33f01726dc49">
 </p>
